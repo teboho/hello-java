@@ -8,3 +8,5 @@
 
 > java -class bin acsse.HelloWorld
 
+## Demo
+![CLI run](/demo.png)
